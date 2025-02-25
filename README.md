@@ -21,3 +21,8 @@ A utility for cheating real items in dbd/Утилита для накрутки 
 - Steam/Epic Games
 
 # Screenshots
+![image1](/images/KIllers.png?raw=true "Killers")
+![image2](/images/Survivors.png?raw=true "Survivors")
+![image3](/images/blood.png?raw=true "blood")
+![image4](/images/blood1.png?raw=true "blood1")
+![image5](/images/blood2.png?raw=true "blood2")
