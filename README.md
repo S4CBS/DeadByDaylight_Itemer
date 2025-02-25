@@ -19,3 +19,5 @@ A utility for cheating real items in dbd/Утилита для накрутки 
 
 # Платформы/Platforms
 - Steam/Epic Games
+
+# Screenshots
