@@ -26,4 +26,4 @@ A utility for cheating real items in dbd/Утилита для накрутки 
 ![image2](/images/Survivors.png?raw=true "Survivors")
 
 # Status 
-- На обновлении
+- На обновлении 30%
