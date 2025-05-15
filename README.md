@@ -1,14 +1,16 @@
 # DeadByDaylight_Itemer
 A utility for cheating real items in dbd/Утилита для накрутки настоящей предметов в dbd
 
-# Download/Скачать [DBDv8.6.2]
+# Полная версия программы (со всеми убийцами, выжившими и поддержкой и обновлениями --> https://funpay.com/users/3833888/)
+
+# Download/Скачать [DBDv8.7.1]
 - https://github.com/S4CBS/DeadByDaylight_Itemer/releases/
 
 # Накрутка предметов и аддонов. 
-- Все сурвы
-- Не все маньяки (Нюрса, Дух, Вескер, Аннушка) - На каждого мана можно накрутить некоторый список дефолтных предметов.
+- Все сурвы.
+- Все маньяки.
 
-# Инструкция
+# Инструкция (Метод был пошикшен для Steam ;( Теперь вам нужен SSL bypass.
 - Запустить Launcher.exe
 - Выбрать свою платформу.
 - Ждать пока игра закроется и откроется приложения для накрутки.
@@ -20,11 +22,11 @@ A utility for cheating real items in dbd/Утилита для накрутки 
 - Есть перевод на Английский пока что только для сурвов
 
 # Платформы/Platforms
-- Steam/Epic Games
+- Steam/EpicGames/Ms
 
 # Screenshots
 ![image1](/images/KIllers.png?raw=true "Killers")
 ![image2](/images/Survivors.png?raw=true "Survivors")
 
 # Status 
-- На обновлении 30%
+- Обновлен для 8.7.1 на 100%.
