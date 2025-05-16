@@ -1,7 +1,7 @@
 # DeadByDaylight_Itemer
 A utility for cheating real items in dbd/Утилита для накрутки настоящей предметов в dbd
 
-# Полная версия программы (со всеми убийцами, выжившими и поддержкой и обновлениями --> https://funpay.com/users/3833888/)
+# Полная версия программы (со всеми убийцами, выжившими, поддержкой и обновлениями --> https://funpay.com/users/3833888/)
 
 # Download/Скачать [DBDv8.7.1]
 - https://github.com/S4CBS/DeadByDaylight_Itemer/releases/
