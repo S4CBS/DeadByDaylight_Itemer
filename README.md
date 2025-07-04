@@ -3,7 +3,7 @@ A utility for cheating real items in dbd/Утилита для накрутки 
 
 # Полная версия программы (со всеми убийцами, выжившими, поддержкой и обновлениями --> https://funpay.com/users/3833888/)
 
-# Download/Скачать [DBDv9.0.0]
+# Download/Скачать [DBDv9.0.2]
 - https://github.com/S4CBS/DeadByDaylight_Itemer/releases/
 
 # Накрутка предметов и аддонов. 
@@ -32,4 +32,4 @@ A utility for cheating real items in dbd/Утилита для накрутки 
 ![image2](/images/Survivors.png?raw=true "Survivors")
 
 # Status 
-- Обновлен для 9.0.0 на 100%. (Имеется ввиду версия которая продается на FunPay)
+- Обновлен для 9.0.2 на 100%. (Имеется ввиду версия которая продается на FunPay)
