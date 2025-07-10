@@ -123,9 +123,9 @@ A utility for injecting real items in Dead by Daylight 🔧
 ---
 
 ## 📸 Screenshots  
-![Killers](/images/KIllers.png?raw=true "Killers")  
-![Survivors](/images/Survivors.png?raw=true "Survivors")  
-![Settings](/images/Settings.png?raw=true "Settings")  
+![Killers](/images/KIllers_eng.png?raw=true "Killers")  
+![Survivors](/images/Survivors_eng.png?raw=true "Survivors")  
+![Settings](/images/Settings_eng.png?raw=true "Settings")  
 
 ---
 
