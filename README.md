@@ -63,7 +63,7 @@
 ---
 
 ## 📌 Статус  
-✅ Актуально для **Dead by Daylight 9.0.2**  
+✅ Актуально для **Dead by Daylight 9.1.0**  
 (Имеется в виду **платная версия**, доступная на FunPay)
 
 
@@ -130,5 +130,5 @@ A utility for injecting real items in Dead by Daylight 🔧
 ---
 
 ## 🛠️ Status  
-✅ Fully updated for **DBD version 9.0.2**  
+✅ Fully updated for **DBD version 9.1.0**  
 (Refers to the paid version available on FunPay)
