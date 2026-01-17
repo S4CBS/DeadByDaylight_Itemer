@@ -1,3 +1,5 @@
+# Тестовая версия не актуальна. Только фулл на Funpay
+
 # RUS
 # DeadByDaylight_Itemer  
 🔥 Утилита для **накрутки настоящих предметов** в Dead by Daylight  
